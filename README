@@ -7,6 +7,6 @@ create database:
 sudo su postgres
 psql
 create database pose;
-create user arathnim with password 'sha-8192';
+create user arathnim with password 'foo';
 grant all privileges on database pose to arathnim;
 ```
