@@ -1,0 +1,12 @@
+reset database: `npx knex migrate:rollback, npx knex migrate:latest`
+
+start data server: `npm start`
+
+create database:
+```
+sudo su postgres
+psql
+create database pose;
+create user arathnim with password 'sha-8192';
+grant all privileges on database pose to arathnim;
+```

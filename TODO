@@ -1,0 +1,29 @@
+[x] update packages
+[x] add urql client package
+[x] spring support
+[ ] graphql subscription support
+[ ] PWA support / serviceworker
+  [x] change webpack to have hashes
+[x] webpack gzip plugin
+[ ] add fonts to webpack
+[x] seperate out server and client code
+
+components:
+
+[ ] auth/account
+  [ ] email module
+  [ ] register account
+  [ ] login
+  [ ] reset password
+  [ ] oauth mastodon?
+
+[ ] chat
+  [ ] servers
+  [ ] home server
+  [ ] channels
+
+[ ] language
+  [ ] objects
+  [ ] players
+  [ ] mobs
+  [ ] interface elements
