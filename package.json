@@ -42,7 +42,7 @@
     "cssnano": "^4.1.10",
     "express-graphql": "^0.7.1",
     "graphql-tools": "^4.0.3",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "knex": "^0.15.2",
     "mini-css-extract-plugin": "^0.4.4",
     "node-sass": "^4.10.0",
